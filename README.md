@@ -2,6 +2,19 @@
 🌍 Location: Nigeria
 
 
+
+## 📑 Table of Contents 
+
+1. [About Me](about-me)  
+2. [Languages & Tools](languages-&-tools)
+3. [Skills & Technologies](skills-&-technologies)  
+4. [Featured Projects](featured-projects)  
+5. [Career Highlights](career-highlights)  
+6. [Currently Learning & Growing](currently-learning-&-growing)
+7. [What I’m Looking For](what-i'm-looking-for)
+8. [Let’s Connect](let's-connect)
+9. [Fun Fact](fun-fact)  
+
 ## 👋 About Me
 I am Ajiboye Ayoola, a beginner data analyst with a background in business administration and management. While I’m new to the field of data analysis, I’ve been actively working on various projects to build and enhance my skills. With 5 years of experience in inventory management, procurement, and business operations, I have developed strong analytical and problem-solving abilities, which I now apply to data-focused projects.
 
@@ -123,7 +136,7 @@ Python Advanced Libraries – Matplotlib, Seaborn for data visualization
 Power BI DAX – Advanced calculations and metrics
 Git & GitHub – For better version control and collaboration
 
-👀 What I’m Looking For
+## 👀 What I’m Looking For
 I am actively seeking opportunities in data analysis roles where I can apply my growing expertise.
 I am also open to collaborative projects, volunteer work, and mentorship to accelerate my growth in the field. 
 If you have an exciting project or opportunity, feel free to connect with me!
