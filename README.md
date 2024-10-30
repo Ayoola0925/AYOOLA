@@ -133,7 +133,6 @@ Actively working on building a professional portfolio to align with career goals
 
 
 ## 🌱 Currently Learning & Growing
-Python Advanced Libraries – Matplotlib, Seaborn for data visualization
 Power BI DAX – Advanced calculations and metrics
 Git & GitHub – For better version control and collaboration
 
