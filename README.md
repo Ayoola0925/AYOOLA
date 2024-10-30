@@ -143,7 +143,7 @@ I am also open to collaborative projects, volunteer work, and mentorship to acce
 If you have an exciting project or opportunity, feel free to connect with me!
 
 ## 📫 Let’s Connect
-- Email: ajiboye.ayoola@gmail.com
+- Email: ajiboyeayoola001@yahoo.com
 
 - LinkedIn: Ajiboye (Elizabeth) Ayoola
 
