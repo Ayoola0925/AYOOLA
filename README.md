@@ -2,6 +2,12 @@
 🌍 Location: Nigeria
 
 
+## 👋 About Me
+I am Ajiboye Ayoola, a beginner data analyst with a background in business administration and management. While I’m new to the field of data analysis, I’ve been actively working on various projects to build and enhance my skills. With 5 years of experience in inventory management, procurement, and business operations, I have developed strong analytical and problem-solving abilities, which I now apply to data-focused projects.
+
+I am passionate about learning new tools and techniques to uncover insights from data and create meaningful visualizations. Through hands-on projects, I’ve gained experience using Excel, SQL, and Power BI, and I continue to grow by exploring Python for data analysis. My goal is to transition into data analytics roles where I can apply my skills to solve real-world problems and help organizations make data-driven decisions.
+
+Also,I aim to transition fully into data analytics roles to apply my skills in transforming raw data into actionable insights and visual stories. I am actively learning, experimenting, and sharing my work on this GitHub space, showcasing my journey and growth in the field.
 
 
 
