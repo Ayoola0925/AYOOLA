@@ -66,7 +66,7 @@ Here’s a snapshot of my technical toolkit:
 - Data Cleaning: Handling missing values, data transformations, normalization
 Programming & Analytics Tools
 
-- Python (Pandas, Numpy, Matplotlib, Seaborn): Data wrangling, visualization
+- Python (Pandas, Numpy, Matplotlib)
   
 - Git & GitHub: Version control, collaborative development
 
