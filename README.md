@@ -1,6 +1,7 @@
 ### Ajiboye Ayoola – Aspiring Data Analyst | Business Administration Graduate | Problem Solver
 🌍 Location: Nigeria
 
+![my pictures](https://github.com/user-attachments/assets/8c9b9aa2-2417-46e5-ad4c-809d20fa106c)
 
 
 ## 📑 Table of Contents 
@@ -85,7 +86,7 @@ Below are some of the most notable projects I’ve worked on, which showcase my 
 
 
 1. Sales Dashboard for a Retail Business
-2. 
+   
 Tools: Excel, PivotTables, Charts
 
 Created a comprehensive sales dashboard to track monthly sales, top products, and customer segments.
