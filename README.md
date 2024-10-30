@@ -134,6 +134,7 @@ Actively working on building a professional portfolio to align with career goals
 
 ## 🌱 Currently Learning & Growing
 Power BI DAX – Advanced calculations and metrics
+
 Git & GitHub – For better version control and collaboration
 
 ## 👀 What I’m Looking For
